@@ -13,3 +13,5 @@ function func_test2()
 
 func_test();
 func_test2();
+
+var test2 = "Is git works?";
